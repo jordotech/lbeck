@@ -196,10 +196,13 @@ a:hover {
     color: #000;
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 768px) {
     h1 {
         text-align: center;
         font-size: 35px;
+    }
+    .bullets{
+        text-align:center;
     }
 }
 

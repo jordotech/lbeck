@@ -6,12 +6,17 @@
         <div class="col-xs-12 col-sm-6 col-md-3 page-grid">
             <div class="panel" data-toggle="modal" data-target="#myModal">
                 <div class="album-img panel-body text-center">
-                    <img class="img-responsive" ng-src="{{ items[i].src }}"/>
+                    <img class="img-responsive" ng-src="{{ items[i].thumb }}"/>
                 </div>
                 <div class="text-center panel-footer">
                     <h5 class="title">{{ items[i].title }}</h5>
                     <div class="text-muted small description">
                         {{ items[i].description }}<br/>{{ items[i].dimensions }}
+                    </div>
+                    <div class="full-res-link" style="display:none;">
+                        <a href="{{ items[i].src }}" target="_blank">Full Resolution.
+                            <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
+                        </a>
                     </div>
                 </div>
             </div>
