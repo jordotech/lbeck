@@ -1,24 +1,6 @@
-var animateApp = angular.module('animateApp', ['ngRoute', 'ngAnimate']);
 
-animateApp.config(function ($routeProvider) {
-    $routeProvider
-        .when('/', {
-            templateUrl: 'page-home.html',
-            controller: 'mainController'
-        })
-        .when('/images', {
-            templateUrl: 'page-images.html',
-            controller: 'imagesController'
-        })
-        .when('/contact', {
-            templateUrl: 'page-contact.html',
-            controller: 'contactController'
-        });
-
-});
 var m = {
     "images": [
-
 
         {
             "src":"./media/IMAGES/Beck_01.jpg",
@@ -116,25 +98,102 @@ var m = {
             "description": "Oil on panel",
             "dimensions":"20 x 17 inches",
         },
+    ],
+    "stills": [
+        {
+            "src":"./media/IMAGES/Beck_16.jpg",
+            "title":"Still, Delusions of Grandeur, 2016",
+            "description": "HD video, 12:04",
+            "dimensions":"",
+        },
+        {
+            "src":"./media/IMAGES/Beck_17.jpg",
+            "title":"Still, Delusions of Grandeur, 2016",
+            "description": "HD video, 12:04",
+            "dimensions":"",
+        },
+        {
+            "src":"./media/IMAGES/Beck_18.jpg",
+            "title":"Still, Delusions of Grandeur, 2016",
+            "description": "HD video, 12:04",
+            "dimensions":"",
+        },
+        {
+            "src":"./media/IMAGES/Beck_19.jpg",
+            "title":"Still, Delusions of Grandeur, 2016",
+            "description": "HD video, 12:04",
+            "dimensions":"",
+        },
+        {
+            "src":"./media/IMAGES/Beck_20.jpg",
+            "title":"Still, Delusions of Grandeur, 2016",
+            "description": "HD video, 12:04",
+            "dimensions":"",
+        },
+        {
+            "src":"./media/IMAGES/Beck_21.jpg",
+            "title":"Still, Delusions of Grandeur, 2016",
+            "description": "HD video, 12:04",
+            "dimensions":"",
+        },
+        {
+            "src":"./media/IMAGES/Beck_22.jpg",
+            "title":"Still, Wide Sea, 2014",
+            "description": "HD video, 7:41",
+            "dimensions":"",
+        },
+        {
+            "src":"./media/IMAGES/Beck_23.jpg",
+            "title":"Still, Wide Sea, 2014",
+            "description": "HD video, 7:41",
+            "dimensions":"",
+        },
+        {
+            "src":"./media/IMAGES/Beck_24.jpg",
+            "title":"Still, A Modern Utopia, 2013",
+            "description": "HD video, 6:32",
+            "dimensions":"",
+        },
+
     ]
-};
+}
+var animateApp = angular.module('animateApp', ['ngRoute', 'ngAnimate']);
+
+animateApp.config(function ($routeProvider) {
+    $routeProvider
+        .when('/', {
+            templateUrl: 'page-home.html',
+            controller: 'mainController'
+        })
+        .when('/images', {
+            templateUrl: 'page-images.html',
+            controller: 'imagesController'
+        })
+        .when('/stills', {
+            templateUrl: 'page-stills.html',
+            controller: 'stillsController'
+        });
+
+});
+
 animateApp.controller('mainController', function ($scope) {
-    $scope.items = m.images;
+
     $scope.pageClass = 'page-home';
 });
 
 animateApp.controller('imagesController', function ($scope) {
+    $scope.items = m.images;
     $scope.pageClass = 'page-images';
 });
 
-animateApp.controller('contactController', function ($scope) {
-    $scope.pageClass = 'page-contact';
+animateApp.controller('stillsController', function ($scope) {
+    $scope.items = m.stills;
+    $scope.pageClass = 'page-stills';
 });
 
 $(function () {
     $('#myModal').on('show.bs.modal', function (event) {
         var source = $(event.relatedTarget);
-
         $(this).find('.modal-body').html($(source).find('.panel-body').html());
         $(this).find('.modal-title h4').html($(source).find('.panel-footer .title').html());
         $(this).find('.modal-title .description').html($(source).find('.panel-footer .description').html());

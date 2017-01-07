@@ -41,11 +41,11 @@ html         {
   animation: fadeIn .5s both ease-in;
 }
 
-/* contact ---------------------- */
-.page-contact.ng-leave      {
+/* stills ---------------------- */
+.page-stills.ng-leave      {
 
 }
-.page-contact.ng-enter 		{
+.page-stills.ng-enter 		{
     -webkit-animation-name: fadeIn;
   animation: fadeIn .5s both ease-in;
 }

@@ -1,26 +1,4 @@
-<h1>IMAGES</h1>
+<h1>HOME</h1>
 
 
-<div class="row">
-    <div ng-repeat="item in items track by $index" >
-        <div class="col-xs-12 col-sm-6 col-md-3 page-grid" >
-            <!--
-        <img class="img-responsive" ng-src="{{ item.src }}"/>
--->
 
-        <div class="panel" data-toggle="modal" data-target="#myModal">
-            <div class="album-img panel-body text-center">
-                <img class="img-responsive" ng-src="{{ item.src }}"/>
-            </div>
-            <div class="text-center panel-footer">
-                <h5 class="title">{{ item.title }}</h5>
-                <div class="text-muted small description">
-                    {{ item.description }}<br/>{{ item.dimensions }}
-                </div>
-            </div>
-        </div>
-
-        </div>
-
-    </div>
-</div>
