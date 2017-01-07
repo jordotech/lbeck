@@ -180,13 +180,24 @@ animateApp.controller('mainController', function ($scope) {
 
     $scope.pageClass = 'page-home';
 });
+animateApp.controller('headerController', function ($scope, $location) {
+
+    $scope.isActive = function (viewLocation) {
+        var match = viewLocation === $location.path();
+        return match
+    };
+});
 
 animateApp.controller('imagesController', function ($scope) {
+
     $scope.items = m.images;
     $scope.pageClass = 'page-images';
 });
 
 animateApp.controller('stillsController', function ($scope) {
+    $scope.isActive = function (viewLocation) {
+        return viewLocation === $location.path();
+    };
     $scope.items = m.stills;
     $scope.pageClass = 'page-stills';
 });

@@ -30,23 +30,30 @@
 
 <body ng-app="animateApp">
 
-
-<div class="row">
+<nav class="navbar navbar-default navbar-fixed-top" ng-controller="headerController">
     <div class="col-md-12 text-center top-bar">&nbsp;</div>
-</div>
+    <div class="container">
+        <div class="row">
 <div class="row phil-top">
 
-    <div class="col-md-6 col-sm-12">
-        <a href="/#" title="Home"><h1>LAUREN BECK</h1></a>
-    </div>
-    <div class="col-md-6 col-sm-12">
-        <div class="row bullets">
-            <div class="col-sm-12 col-xs-4">IMAGES</div>
-            <div class="col-sm-12 col-xs-4">FILM STILLS</div>
-            <div class="col-sm-12 col-xs-4"><a target="_blank" href="./media/Beck_CV.pdf">CV</a></div>
+            <div class="col-md-6 col-sm-12">
+                <a href="/" title="Home"><h1>LAUREN BECK</h1></a>
+            </div>
+            <div class="col-md-6 col-sm-12">
+                <div class="row bullets">
+                    <div class="col-sm-12 col-xs-4"><a href="/images" ng-class="{ active: isActive('/images')}">IMAGES</a></div>
+                    <div class="col-sm-12 col-xs-4"><a href="/stills" ng-class="{ active: isActive('/stills')}">FILM STILLS</a></div>
+                    <div class="col-sm-12 col-xs-4"><a target="_blank" href="./media/Beck_CV.pdf">CV</a></div>
+                </div>
+            </div>
         </div>
+        </div>
+        <!--
+
+        -->
     </div>
-</div>
+</nav>
+
 <div class="container">
 
 

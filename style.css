@@ -1,11 +1,7 @@
 /* BASE STYLES
 ============================================================================= */
-html         {
 
-}
-.page        {
 
-}
 
 .page h1 	{ font-size:60px; }
 .page a     { margin-top:50px; }
@@ -181,6 +177,7 @@ html         {
 }
 
 body {
+    padding-top:120px;
     background: #fff;
     color: #000;
 }
@@ -223,17 +220,11 @@ a:hover {
     background: #000;
     border-bottom: 5px solid #C9CACC;
     height: 40px;
-    xline-height: 40px;
 }
 .phil-top{
-    border-bottom:1px solid #C9CACC;
-        margin-bottom: 20px;
-    padding-bottom: 10px;
     padding-left:25px;
 }
-.album-cover {
-    xborder: 1px solid red;
-}
+
 
 h1 {
     margin-top: 10px;
@@ -243,10 +234,14 @@ h1 {
 .header {
     margin-bottom: 40px;
 }
-.page-grid .img-responsive{
-	xheight:200px;
-}
+
 
 .panel-footer{
 	height:100px;
+}
+a{
+    color:#333 !important;
+}
+nav a.active{
+    text-decoration:underline;
 }
