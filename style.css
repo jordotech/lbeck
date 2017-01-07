@@ -232,7 +232,7 @@ a:hover {
 
 h1 {
     margin-top: 10px;
-    font-size: 52px;
+    font-size: 40px !important;
 }
 
 .header {
