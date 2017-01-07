@@ -243,3 +243,10 @@ h1 {
 .header {
     margin-bottom: 40px;
 }
+.page-grid .img-responsive{
+	xheight:200px;
+}
+
+.panel-footer{
+	height:100px;
+}

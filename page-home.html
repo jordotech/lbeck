@@ -2,9 +2,14 @@
 
 
 <div class="row">
-    <div class="col-xs-12 col-sm-6 col-md-3" ng-repeat="item in items">
+    <div ng-repeat="item in items track by $index" >
+        <div class="col-xs-12 col-sm-6 col-md-3 page-grid" >
+            <!--
+        <img class="img-responsive" ng-src="{{ item.src }}"/>
+-->
+
         <div class="panel" data-toggle="modal" data-target="#myModal">
-            <div class="album-img panel-body">
+            <div class="album-img panel-body text-center">
                 <img class="img-responsive" ng-src="{{ item.src }}"/>
             </div>
             <div class="text-center panel-footer">
@@ -14,5 +19,8 @@
                 </div>
             </div>
         </div>
+
+        </div>
+
     </div>
 </div>
