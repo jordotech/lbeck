@@ -6,9 +6,9 @@ animateApp.config(function($routeProvider) {
     		templateUrl: 'page-home.html',
             controller: 'mainController'
     	})
-    	.when('/about', {
-    		templateUrl: 'page-about.html',
-            controller: 'aboutController'
+    	.when('/images', {
+    		templateUrl: 'page-images.html',
+            controller: 'imagesController'
     	})
     	.when('/contact', {
     		templateUrl: 'page-contact.html',
@@ -21,8 +21,8 @@ animateApp.controller('mainController', function($scope) {
     $scope.pageClass = 'page-home';
 });
 
-animateApp.controller('aboutController', function($scope) {
-    $scope.pageClass = 'page-about';
+animateApp.controller('imagesController', function($scope) {
+    $scope.pageClass = 'page-images';
 });
 
 animateApp.controller('contactController', function($scope) {
