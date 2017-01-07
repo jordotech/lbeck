@@ -1,99 +1,35 @@
-<h1>HOME</h1>
-<!--
-<img class="img-responsive" src="./media/IMAGES/Beck_01.jpg" alt="..."/>
--->
+<h1>IMAGES</h1>
+<div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-3">
+        <div class="panel" data-toggle="modal" data-target="#myModal">
+            <div class="album-img panel-body">
+                <img class="img-responsive" src="./media/IMAGES/Beck_01.jpg"/>
+            </div>
+            <div class="text-center panel-footer">
 
-hello<br/>
+                <h5 class="">Untitled, 2016</h5>
+                <div class="text-muted small">
+                    Ink, watercolor, pencil, and powdered charcoal on paper, 30 x 35 inches
+                </div>
+            </div>
+        </div>
 
-hi<br/>
-hello<br/>
 
-hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
+    </div>
 
 
 
 
+    <script>
+        $(function () {
+            $('#myModal').on('show.bs.modal', function (event) {
+                var source = $(event.relatedTarget);
 
-hi<br/>
-hello<br/>
+                $(this).find('.modal-body').html($(source).html());
 
-hi<br/>
-hello<br/>
+            });
+        })
 
-hi<br/>hi<br/>
-hello<br/>
+    </script>
 
-hi<br/>
-hello<br/>
-
-hi<br/>hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>hi<br/>
-hello<br/>
-
-hi<br/>
-hello<br/>
-
-hi<br/>
+</div>
