@@ -2,8 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35225e0d-b6ed-4313-8dbf-bce6d225afb2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/IMAGES/Beck_01.jpg" afterPath="$PROJECT_DIR$/media/IMAGES/Beck_01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/IMAGES/Beck_02.jpg" afterPath="$PROJECT_DIR$/media/IMAGES/Beck_02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/IMAGES/Beck_03.jpg" afterPath="$PROJECT_DIR$/media/IMAGES/Beck_03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/IMAGES/Beck_06.jpg" afterPath="$PROJECT_DIR$/media/IMAGES/Beck_06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/IMAGES/Beck_09.jpg" afterPath="$PROJECT_DIR$/media/IMAGES/Beck_09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/IMAGES/Beck_10.jpg" afterPath="$PROJECT_DIR$/media/IMAGES/Beck_10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/IMAGES/Beck_12.jpg" afterPath="$PROJECT_DIR$/media/IMAGES/Beck_12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/IMAGES/Beck_13.jpg" afterPath="$PROJECT_DIR$/media/IMAGES/Beck_13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/IMAGES/Beck_14.jpg" afterPath="$PROJECT_DIR$/media/IMAGES/Beck_14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/IMAGES/Beck_15.jpg" afterPath="$PROJECT_DIR$/media/IMAGES/Beck_15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_01.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_02.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_03.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_04.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_05.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_06.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_07.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_08.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_09.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_10.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_11.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_12.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_13.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_14.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_15.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_16.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_17.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_18.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_19.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_20.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_21.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_22.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_23.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/THUMBS/Beck_24.jpg" afterPath="$PROJECT_DIR$/media/THUMBS/Beck_24.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page-home.html" afterPath="$PROJECT_DIR$/page-home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page-images.html" afterPath="$PROJECT_DIR$/page-images.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page-stills.html" afterPath="$PROJECT_DIR$/page-stills.html" />
     </list>
     <ignored path="phil.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,12 +64,21 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="46" column="54" lean-forward="false" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
+            <state relative-caret-position="135">
+              <caret line="54" column="12" lean-forward="false" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
               <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#2649#2656#0" expanded="true" />
+                <element signature="e#2640#2647#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page-home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -40,8 +86,8 @@
       <file leaf-file-name="page-stills.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page-stills.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,16 +106,16 @@
       <file leaf-file-name="page-images.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page-images.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="15">
+              <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
               <folding>
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="448">
@@ -117,12 +163,12 @@
         <option value="$PROJECT_DIR$/old.html" />
         <option value="$PROJECT_DIR$/page-contact.html" />
         <option value="$PROJECT_DIR$/static/style.css" />
-        <option value="$PROJECT_DIR$/page-stills.html" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/page-home.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/page-images.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/page-images.html" />
+        <option value="$PROJECT_DIR$/page-stills.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/page-home.html" />
       </list>
     </option>
   </component>
@@ -133,8 +179,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="525" />
-    <option name="y" value="34" />
+    <option name="x" value="692" />
+    <option name="y" value="109" />
     <option name="width" value="1245" />
     <option name="height" value="875" />
   </component>
@@ -194,6 +240,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/media/IMAGES" />
       <recent name="$PROJECT_DIR$/media" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -444,7 +491,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="525" y="34" width="1245" height="875" extended-state="0" />
+    <frame x="692" y="109" width="1245" height="875" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23275146" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -534,8 +581,7 @@
         <state relative-caret-position="392">
           <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
           <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#2649#2656#0" expanded="true" />
+            <element signature="e#2640#2647#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -546,11 +592,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/media/IMAGES/Beck_01.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ang/index.html">
@@ -1433,14 +1474,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page-stills.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
@@ -1449,39 +1482,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page-home.html">
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="384" column="23" lean-forward="false" selection-start-line="384" selection-start-column="23" selection-end-line="384" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/THUMBS.bak/Beck_01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/IMAGES/Beck_01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/IMAGES/Beck_02.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page-images.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page-stills.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="46" column="54" lean-forward="false" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
+        <state relative-caret-position="135">
+          <caret line="54" column="12" lean-forward="false" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
           <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#2649#2656#0" expanded="true" />
+            <element signature="e#2640#2647#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page-images.html">
+    <entry file="file://$PROJECT_DIR$/page-home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="384" column="23" lean-forward="false" selection-start-line="384" selection-start-column="23" selection-end-line="384" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
           <folding />
         </state>
       </provider>
